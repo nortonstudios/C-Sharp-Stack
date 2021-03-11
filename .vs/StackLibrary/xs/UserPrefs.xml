@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary/StackNode.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary/StackClass.cs">
     <Files>
-      <File FileName="StackLibrary/StackClass.cs" Line="10" Column="1" />
-      <File FileName="StackLibrary/StackNode.cs" Line="6" Column="1" />
+      <File FileName="StackLibrary/StackClass.cs" Line="11" Column="16" />
+      <File FileName="StackLibrary/StackNode.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

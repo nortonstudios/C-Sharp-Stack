@@ -8,15 +8,14 @@ namespace StackLibrary
 
         public StackNode Head { get; set; }
 
-        public static void Push( StackNode node)
+        public void Push( object payload)
         {
-
-
+            //
         }
 
-        public static object Pop ()  ////START HERE
+        public object Pop()  ////START HERE. 
         {
-            object payload = Head.Payload;
+            new object payload = Head.GetPayload();
             Head = Head.NextNode;
             return payload;
         }
@@ -24,6 +23,7 @@ namespace StackLibrary
 
         public StackClass()
         {
+
         }
     }
 }
