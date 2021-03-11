@@ -1,0 +1,12 @@
+/Users/mike/Projects/StackLibrary/StackLibrary/bin/Debug/net5.0/StackLibrary.deps.json
+/Users/mike/Projects/StackLibrary/StackLibrary/bin/Debug/net5.0/StackLibrary.dll
+/Users/mike/Projects/StackLibrary/StackLibrary/bin/Debug/net5.0/ref/StackLibrary.dll
+/Users/mike/Projects/StackLibrary/StackLibrary/bin/Debug/net5.0/StackLibrary.pdb
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.csprojAssemblyReference.cache
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.AssemblyInfoInputs.cache
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.AssemblyInfo.cs
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.dll
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/ref/StackLibrary.dll
+/Users/mike/Projects/StackLibrary/StackLibrary/obj/Debug/net5.0/StackLibrary.pdb

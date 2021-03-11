@@ -1,21 +1,24 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary/StackClass.cs">
+﻿<Properties StartupConfiguration="{D49AA1BC-7850-4AAF-9BA6-8D1431B07507}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary.Tests/StackClassTests.cs">
     <Files>
-      <File FileName="StackLibrary/StackClass.cs" Line="11" Column="16" />
-      <File FileName="StackLibrary/StackNode.cs" />
+      <File FileName="StackLibrary/StackClass.cs" Line="26" Column="10" />
+      <File FileName="StackLibrary/StackNode.cs" Line="3" Column="1" />
+      <File FileName="StackLibrary.Tests/StackClassTests.cs" Line="5" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StackLibrary" expanded="True">
-            <Node name="StackLibrary" expanded="True">
-              <Node name="StackNode.cs" selected="True" />
+            <Node name="StackLibrary" expanded="True" />
+            <Node name="StackLibrary.Tests" expanded="True">
+              <Node name="StackClassTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StackLibrary.Tests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.StackLibrary FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
