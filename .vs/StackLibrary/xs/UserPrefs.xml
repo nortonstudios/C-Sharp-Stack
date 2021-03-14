@@ -1,24 +1,34 @@
 ﻿<Properties StartupConfiguration="{D49AA1BC-7850-4AAF-9BA6-8D1431B07507}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary.Tests/StackClassTests.cs">
+  <MonoDevelop.Ide.ItemProperties.PalindromeFinderConsoleUI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackLibrary.Tests/PaliToolsTests.cs">
     <Files>
-      <File FileName="StackLibrary/StackClass.cs" Line="26" Column="10" />
-      <File FileName="StackLibrary/StackNode.cs" />
-      <File FileName="StackLibrary.Tests/StackClassTests.cs" Line="27" Column="1" />
+      <File FileName="StackLibrary/StackClass.cs" Line="57" Column="28" />
+      <File FileName="StackLibrary/StackNode.cs" Line="1" Column="1" />
+      <File FileName="PalindromeFinderConsoleUI/Program.cs" Line="9" Column="13" />
+      <File FileName="StackLibrary/PaliTools.cs" Line="31" Column="1" />
+      <File FileName="StackLibrary.Tests/PaliToolsTests.cs" Line="13" Column="71" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StackLibrary" expanded="True">
+            <Node name="PalindromeFinderConsoleUI" expanded="True" />
             <Node name="StackLibrary" expanded="True" />
             <Node name="StackLibrary.Tests" expanded="True">
-              <Node name="StackClassTests.cs" selected="True" />
+              <Node name="PaliToolsTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="StackLibrary" expanded="True" selected="True" />
+          <Node name="StackLibrary" expanded="True" selected="True">
+            <Node name="StackLibrary.Tests" expanded="True">
+              <Node name="StackLibrary.Tests" expanded="True">
+                <Node name="StackClassTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

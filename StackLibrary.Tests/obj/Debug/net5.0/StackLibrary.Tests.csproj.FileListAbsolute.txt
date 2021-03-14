@@ -99,3 +99,4 @@
 /Users/mike/Projects/StackLibrary/StackLibrary.Tests/obj/Debug/net5.0/ref/StackLibrary.Tests.dll
 /Users/mike/Projects/StackLibrary/StackLibrary.Tests/obj/Debug/net5.0/StackLibrary.Tests.pdb
 /Users/mike/Projects/StackLibrary/StackLibrary.Tests/obj/Debug/net5.0/StackLibrary.Tests.genruntimeconfig.cache
+/Users/mike/Projects/StackLibrary/StackLibrary.Tests/bin/Debug/net5.0/CoverletSourceRootsMapping
