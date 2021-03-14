@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PalindromeFinderConsoleUI/1.0.0": {
+        "dependencies": {
+          "StackLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PalindromeFinderConsoleUI.dll": {}
+        }
+      },
+      "StackLibrary/1.0.0": {
+        "runtime": {
+          "StackLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PalindromeFinderConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StackLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
